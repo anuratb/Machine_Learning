@@ -1,0 +1,2164 @@
+graph "Decision Tree" {
+	size="1000,3000"
+	node [shape=rectangle]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9807384170438056,
+Attribute Chosen = BMI" -- "['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9384964669452684,
+Attribute Chosen = Glucose" [label=136.8808403475681]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.6840384356390417,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9384964669452684,
+Attribute Chosen = Glucose" [label=192.41988382013622]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.7360409052196051,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9384964669452684,
+Attribute Chosen = Glucose" [label=104.90822215243189]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.3955378064564774,
+Attribute Chosen = BMI" -- "['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9384964669452684,
+Attribute Chosen = Glucose" [label=72.93560395729567]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8203636429576731,
+Attribute Chosen = Age" -- "['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9384964669452684,
+Attribute Chosen = Glucose" [label=168.85345854270435]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.863120568566631,
+Attribute Chosen = BMI" -- "['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9384964669452684,
+Attribute Chosen = Glucose" [label=27.97464742986378]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8904916402194913,
+Attribute Chosen = Age" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9807384170438056,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9798687566511528,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9807384170438056,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9969562518473083,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9807384170438056,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9807384170438056,
+Attribute Chosen = BMI" [label=57.93044938287544]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4689955935892812,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9807384170438056,
+Attribute Chosen = BMI" [label=20.16633764443683]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9807384170438056,
+Attribute Chosen = BMI" [label=7.612128742124554]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4394969869215134,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.6840384356390417,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.6840384356390417,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.6840384356390417,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.6840384356390417,
+Attribute Chosen = SkinThickness" [label=76.2204467343943]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.6840384356390417,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4971677614160753,
+Attribute Chosen = BMI" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.7360409052196051,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.512709142030877,
+Attribute Chosen = Age" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.7360409052196051,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8168114277045246,
+Attribute Chosen = BMI" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.7360409052196051,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9910760598382222,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.7360409052196051,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9957274520849255,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.7360409052196051,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.3955378064564774,
+Attribute Chosen = BMI" [label=20.16633764443683]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.2580186686648155,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.3955378064564774,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4689955935892812,
+Attribute Chosen = Age" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.3955378064564774,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.3955378064564774,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.3955378064564774,
+Attribute Chosen = BMI" [label=57.93044938287544]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.3955378064564774,
+Attribute Chosen = BMI" [label=7.612128742124554]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.8014698931335287,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8203636429576731,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.39124356362925566,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8203636429576731,
+Attribute Chosen = Age" [label=50.88123272768469]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.8708644692353644,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8203636429576731,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9852281360342515,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8203636429576731,
+Attribute Chosen = Age" [label=69.38067424901202]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8203636429576731,
+Attribute Chosen = Age" [label=15.600538105648637]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.863120568566631,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.863120568566631,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.863120568566631,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8904916402194913,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.5435644431995964,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8904916402194913,
+Attribute Chosen = Age" [label=69.38067424901202]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9612366047228759,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8904916402194913,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9852281360342515,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8904916402194913,
+Attribute Chosen = Age" [label=50.88123272768469]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8904916402194913,
+Attribute Chosen = Age" [label=15.600538105648637]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9798687566511528,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.863120568566631,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9798687566511528,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9798687566511528,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9798687566511528,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Age" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9798687566511528,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9103480624345153,
+Attribute Chosen = Age" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9969562518473083,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9969562518473083,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9969562518473083,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.8812908992306927,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9969562518473083,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.9688691946024955]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9969562518473083,
+Attribute Chosen = DiabetesPedigreeFunction" [label=2.2772667460544413]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4689955935892812,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4689955935892812,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4689955935892812,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4689955935892812,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['Pregnancies', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4394969869215134,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Pregnancies', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4394969869215134,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Pregnancies', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4394969869215134,
+Attribute Chosen = BloodPressure" [label=115.40854154564478]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.23868451135100135,
+Attribute Chosen = Age" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4971677614160753,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.7706290693639405,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4971677614160753,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.26676498780302604,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4971677614160753,
+Attribute Chosen = BMI" [label=20.16633764443683]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4971677614160753,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.5293608652873644,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.512709142030877,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.512709142030877,
+Attribute Chosen = Age" [label=15.600538105648637]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.512709142030877,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.512709142030877,
+Attribute Chosen = Age" [label=50.88123272768469]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.512709142030877,
+Attribute Chosen = Age" [label=69.38067424901202]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8739810481273578,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8168114277045246,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.7950402793845223,
+Attribute Chosen = Age" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8168114277045246,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8168114277045246,
+Attribute Chosen = BMI" [label=20.16633764443683]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8168114277045246,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8168114277045246,
+Attribute Chosen = BMI" [label=57.93044938287544]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8168114277045246,
+Attribute Chosen = BMI" [label=7.612128742124554]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9910760598382222,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9910760598382222,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9910760598382222,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9910760598382222,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.9688691946024955]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9402859586706311,
+Attribute Chosen = Age" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9957274520849255,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = BMI" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9957274520849255,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9957274520849255,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9957274520849255,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.2580186686648155,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.2580186686648155,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.2580186686648155,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.2580186686648155,
+Attribute Chosen = DiabetesPedigreeFunction" [label=2.2772667460544413]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.4394969869215134,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4689955935892812,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4689955935892812,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4689955935892812,
+Attribute Chosen = Age" [label=50.88123272768469]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.4689955935892812,
+Attribute Chosen = Age" [label=15.600538105648637]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.8453509366224364,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.8014698931335287,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.8014698931335287,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.9688691946024955]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.8014698931335287,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.8014698931335287,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.8014698931335287,
+Attribute Chosen = DiabetesPedigreeFunction" [label=2.2772667460544413]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BMI" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.39124356362925566,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.39124356362925566,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.39124356362925566,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.39124356362925566,
+Attribute Chosen = BloodPressure" [label=115.40854154564478]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.8708644692353644,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.8366407419411672,
+Attribute Chosen = BMI" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.8708644692353644,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.8708644692353644,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.9688691946024955]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.8708644692353644,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.8708644692353644,
+Attribute Chosen = DiabetesPedigreeFunction" [label=2.2772667460544413]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9852281360342515,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9852281360342515,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9852281360342515,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9852281360342515,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 0.863120568566631,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9798687566511528,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = Insulin" [label=252.66548269367394]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = Insulin" [label=578.6437419346715]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.5435644431995964,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.5435644431995964,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.5435644431995964,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9612366047228759,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9612366047228759,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9612366047228759,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9612366047228759,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9852281360342515,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9852281360342515,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9852281360342515,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.863120568566631,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.863120568566631,
+Attribute Chosen = Insulin" [label=252.66548269367394]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.863120568566631,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.863120568566631,
+Attribute Chosen = Insulin" [label=578.6437419346715]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" [label=14.696927204355223]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" [label=40.071757994032836]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Age" [label=50.88123272768469]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.6292492238560345,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9103480624345153,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9886994082884974,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9103480624345153,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9103480624345153,
+Attribute Chosen = Age" [label=69.38067424901202]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9103480624345153,
+Attribute Chosen = Age" [label=50.88123272768469]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Insulin" [label=578.6437419346715]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Insulin" [label=252.66548269367394]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.8812908992306927,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.8812908992306927,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.8812908992306927,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.8812908992306927,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.19143325481419343,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.23868451135100135,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.23868451135100135,
+Attribute Chosen = Age" [label=15.600538105648637]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.23868451135100135,
+Attribute Chosen = Age" [label=50.88123272768469]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.23868451135100135,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.7706290693639405,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.9688691946024955]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9852281360342515,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.7706290693639405,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.4262286569981449,
+Attribute Chosen = Age" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.7706290693639405,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.26676498780302604,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.26676498780302604,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.26676498780302604,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.9688691946024955]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.26676498780302604,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = BMI" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.5293608652873644,
+Attribute Chosen = BloodPressure" [label=14.696927204355223]
+	"['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.5293608652873644,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.5293608652873644,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8739810481273578,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8739810481273578,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.9688691946024955]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8739810481273578,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8739810481273578,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.8739810481273578,
+Attribute Chosen = DiabetesPedigreeFunction" [label=2.2772667460544413]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.7950402793845223,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.7950402793845223,
+Attribute Chosen = Age" [label=15.600538105648637]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.7950402793845223,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.7950402793845223,
+Attribute Chosen = Age" [label=69.38067424901202]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.7950402793845223,
+Attribute Chosen = Age" [label=50.88123272768469]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin', 'BMI', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin', 'BMI', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = BMI" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin', 'BMI', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=76.2204467343943]
+	"['BloodPressure', 'Insulin', 'BMI', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'Insulin', 'BMI', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9402859586706311,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9402859586706311,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9402859586706311,
+Attribute Chosen = Age" [label=69.38067424901202]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = BMI" [label=20.16633764443683]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.4394969869215134,
+Attribute Chosen = DiabetesPedigreeFunction" [label=2.2772667460544413]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.37123232664087563,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.4394969869215134,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.4394969869215134,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.8453509366224364,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.5665095065529053,
+Attribute Chosen = BMI" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.8453509366224364,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.8453509366224364,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'BMI'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'BMI'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'BMI'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = Insulin" [label=578.6437419346715]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI'],
+,Entropy = 1.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.5435644431995964,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.8366407419411672,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.8366407419411672,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.8366407419411672,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 0.863120568566631,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Entropy = 0.954434002924965,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 0.863120568566631,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 0.863120568566631,
+Attribute Chosen = DiabetesPedigreeFunction" [label=2.2772667460544413]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 0.863120568566631,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9798687566511528,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9798687566511528,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9798687566511528,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['Pregnancies', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['Pregnancies', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['Pregnancies', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Insulin" [label=578.6437419346715]
+	"['BloodPressure', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.6292492238560345,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.6292492238560345,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.6292492238560345,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9798687566511528,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9886994082884974,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9886994082884974,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9886994082884974,
+Attribute Chosen = BloodPressure" [label=14.696927204355223]
+	"['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9886994082884974,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['SkinThickness', 'Insulin', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.19143325481419343,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.19143325481419343,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.19143325481419343,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.41381685030363374,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.19143325481419343,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9852281360342515,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9852281360342515,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.4262286569981449,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.4262286569981449,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.4262286569981449,
+Attribute Chosen = Age" [label=15.600538105648637]
+	"['SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = Insulin" -- "['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = SkinThickness" [label=76.2204467343943]
+	"['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = Insulin" -- "['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.6500224216483541,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Age" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Age" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Insulin" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = BloodPressure" [label=14.696927204355223]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.8812908992306927,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'BMI', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'BMI', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = BMI" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=14.696927204355223]
+	"['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = BMI" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=14.696927204355223]
+	"['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.37123232664087563,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.37123232664087563,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.5665095065529053,
+Attribute Chosen = BMI" [label=57.93044938287544]
+	"['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.5665095065529053,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.5665095065529053,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.5665095065529053,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 0.5665095065529053,
+Attribute Chosen = BMI" [label=20.16633764443683]
+	"['Pregnancies', 'SkinThickness', 'BMI'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'BMI'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Pregnancies', 'SkinThickness', 'BMI'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'BMI'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Pregnancies', 'BloodPressure', 'Insulin'],
+,Entropy = 1.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.5435644431995964,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['Pregnancies', 'BloodPressure', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.5435644431995964,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Pregnancies', 'BloodPressure', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.5435644431995964,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 1.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['BloodPressure', 'SkinThickness'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Entropy = 0.954434002924965,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Entropy = 0.954434002924965,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['Pregnancies', 'SkinThickness'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Pregnancies', 'SkinThickness'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Pregnancies', 'SkinThickness'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = BloodPressure" [label=14.696927204355223]
+	"['BloodPressure', 'SkinThickness'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness'],
+,Entropy = 1.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['SkinThickness', 'Insulin'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Pregnancies', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9798687566511528,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['Pregnancies', 'Insulin'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9798687566511528,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Pregnancies', 'Insulin'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9798687566511528,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['Pregnancies', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9798687566511528,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['SkinThickness', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Insulin', 'Age'],
+,Entropy = 1.0,
+ predicted value = 0" -- "['SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['SkinThickness', 'Insulin', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['SkinThickness', 'Insulin', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.41381685030363374,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Insulin" -- "['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.41381685030363374,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin', 'Age'],
+,Entropy = 0.8112781244591328,
+ predicted value = 0" -- "['SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['SkinThickness', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['Insulin', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = Insulin" -- "['SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['SkinThickness', 'Insulin', 'Age'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = Insulin" [label=252.66548269367394]
+	"['BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = Insulin" [label=252.66548269367394]
+	"['Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['BloodPressure', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['BloodPressure', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['BloodPressure', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Age" [label=69.38067424901202]
+	"['BloodPressure', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['BloodPressure', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['BloodPressure', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['BloodPressure', 'Age'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Age" -- "['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['BloodPressure', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Insulin" [label=578.6437419346715]
+	"['Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['Insulin', 'Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'Age'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.8812908992306927,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.8812908992306927,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['BloodPressure', 'Insulin'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Entropy = 0.8812908992306927,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = BMI" [label=7.612128742124554]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Entropy = 1.0,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['Insulin', 'BMI'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['Insulin', 'BMI'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['Insulin', 'BMI'],
+,Entropy = 1.0,
+Attribute Chosen = Insulin" -- "['SkinThickness', 'Insulin', 'BMI'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Pregnancies', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Pregnancies', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['Pregnancies', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['Pregnancies', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['Pregnancies', 'Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'SkinThickness', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['SkinThickness'],
+,Entropy = 0.9182958340544896,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['SkinThickness'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['SkinThickness'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness'],
+,Entropy = 1.0,
+ predicted value = 0" -- "['Pregnancies', 'SkinThickness'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['SkinThickness'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'SkinThickness'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['SkinThickness'],
+,Entropy = 1.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['SkinThickness'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['SkinThickness', 'Insulin'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['SkinThickness', 'Insulin'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['SkinThickness', 'Insulin'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'Insulin'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'Insulin'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'Insulin'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'Insulin'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['Insulin'],
+,Entropy = 0.9182958340544896,
+ predicted value = 1" -- "['Pregnancies', 'Insulin'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'Insulin'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['SkinThickness', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['Age'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['SkinThickness', 'Age'],
+,Entropy = 1.0,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['DiabetesPedigreeFunction'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['DiabetesPedigreeFunction'],
+,Entropy = 0.9182958340544896,
+ predicted value = 0" -- "['Insulin', 'DiabetesPedigreeFunction'],
+,Entropy = 0.7219280948873623,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['Age'],
+,Entropy = 1.0,
+ predicted value = 0" -- "['Insulin', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['Age'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Insulin', 'Age'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['BloodPressure'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Age'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['BloodPressure'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'Age'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['BloodPressure'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Age'],
+,Entropy = 0.9709505944546686,
+Attribute Chosen = Age" [label=50.88123272768469]
+	"['Insulin'],
+,Entropy = 0.9182958340544896,
+ predicted value = 0" -- "['BloodPressure', 'Insulin'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Insulin'],
+,Entropy = 1.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin'],
+,Entropy = 0.8112781244591328,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['BMI'],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Insulin', 'BMI'],
+,Entropy = 1.0,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['BMI'],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Insulin', 'BMI'],
+,Entropy = 1.0,
+Attribute Chosen = Insulin" [label=578.6437419346715]
+	"[],
+,Entropy = 0.0,
+ predicted value = 1" -- "['Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"[],
+,Entropy = 0.0,
+ predicted value = 0" -- "['Insulin'],
+,Entropy = 1.0,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"[],
+,Entropy = 1.0,
+ predicted value = 0" -- "['BloodPressure'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"[],
+,Entropy = 0.0,
+ predicted value = 0" -- "['BloodPressure'],
+,Entropy = 0.9182958340544896,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+}

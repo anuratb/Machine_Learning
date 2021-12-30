@@ -1,0 +1,2104 @@
+graph "Decision Tree" {
+	size="1000,3000"
+	node [shape=rectangle]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.33929567859135723,
+Attribute Chosen = Age" -- "['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4560684994005242,
+Attribute Chosen = Glucose" [label=104.90822215243189]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4560684994005242,
+Attribute Chosen = Glucose" [label=192.41988382013622]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.412754366287454,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4560684994005242,
+Attribute Chosen = Glucose" [label=168.85345854270435]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4925308641975309,
+Attribute Chosen = BMI" -- "['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4560684994005242,
+Attribute Chosen = Glucose" [label=136.8808403475681]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.10775510204081629,
+Attribute Chosen = BMI" -- "['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4560684994005242,
+Attribute Chosen = Glucose" [label=72.93560395729567]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BMI" -- "['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4560684994005242,
+Attribute Chosen = Glucose" [label=27.97464742986378]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.26880000000000004,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.33929567859135723,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.18000000000000005,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.33929567859135723,
+Attribute Chosen = Age" [label=69.38067424901202]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.33929567859135723,
+Attribute Chosen = Age" [label=50.88123272768469]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.14201183431952658,
+Attribute Chosen = BMI" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.33929567859135723,
+Attribute Chosen = Age" [label=15.600538105648637]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48611111111111116,
+Attribute Chosen = BMI" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.33929567859135723,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.1527777777777778,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" [label=76.2204467343943]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4928,
+Attribute Chosen = Age" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.412754366287454,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.412754366287454,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.3648,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.412754366287454,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.2603550295857988,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.412754366287454,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.39669421487603307,
+Attribute Chosen = BMI" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.412754366287454,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.49853907962016075,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4925308641975309,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.451171875,
+Attribute Chosen = Age" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4925308641975309,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4925308641975309,
+Attribute Chosen = BMI" [label=57.93044938287544]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.46875,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4925308641975309,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.18000000000000005,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4925308641975309,
+Attribute Chosen = BMI" [label=20.16633764443683]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4925308641975309,
+Attribute Chosen = BMI" [label=7.612128742124554]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.10775510204081629,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.21120000000000005,
+Attribute Chosen = Age" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.10775510204081629,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.10775510204081629,
+Attribute Chosen = BMI" [label=20.16633764443683]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.10775510204081629,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.10775510204081629,
+Attribute Chosen = BMI" [label=7.612128742124554]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.10775510204081629,
+Attribute Chosen = BMI" [label=57.93044938287544]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.18620340698262772,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.26880000000000004,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.24489795918367352,
+Attribute Chosen = BMI" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.26880000000000004,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.332409972299169,
+Attribute Chosen = BMI" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.26880000000000004,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.26880000000000004,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.18000000000000005,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.18000000000000005,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.18000000000000005,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.18000000000000005,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.40816326530612246,
+Attribute Chosen = BMI" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.14201183431952658,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.14201183431952658,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.14201183431952658,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.14201183431952658,
+Attribute Chosen = BMI" [label=7.612128742124554]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.14201183431952658,
+Attribute Chosen = BMI" [label=20.16633764443683]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48611111111111116,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48611111111111116,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.49777777777777776,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48611111111111116,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.375,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48611111111111116,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48611111111111116,
+Attribute Chosen = BMI" [label=20.16633764443683]
+	"['Pregnancies', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.1527777777777778,
+Attribute Chosen = BloodPressure" [label=115.40854154564478]
+	"['Pregnancies', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.1527777777777778,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Pregnancies', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.1527777777777778,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Pregnancies', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.1527777777777778,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = DiabetesPedigreeFunction" [label=2.2772667460544413]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4928,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4928,
+Attribute Chosen = Age" [label=69.38067424901202]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4928,
+Attribute Chosen = Age" [label=50.88123272768469]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4928,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'SkinThickness', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.46875,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.3648,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['BloodPressure', 'SkinThickness', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.3648,
+Attribute Chosen = Insulin" [label=578.6437419346715]
+	"['BloodPressure', 'SkinThickness', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.3648,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['BloodPressure', 'SkinThickness', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.3648,
+Attribute Chosen = Insulin" [label=252.66548269367394]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.2603550295857988,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.2603550295857988,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BMI" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.2603550295857988,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.2603550295857988,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.48,
+Attribute Chosen = Insulin" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.39669421487603307,
+Attribute Chosen = BMI" [label=57.93044938287544]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.39669421487603307,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.39669421487603307,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.39669421487603307,
+Attribute Chosen = BMI" [label=20.16633764443683]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.47530864197530864,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.49853907962016075,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Age" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.49853907962016075,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.42000000000000004,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.49853907962016075,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.9688691946024955]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.49853907962016075,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.49853907962016075,
+Attribute Chosen = DiabetesPedigreeFunction" [label=2.2772667460544413]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.451171875,
+Attribute Chosen = Age" [label=15.600538105648637]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.451171875,
+Attribute Chosen = Age" [label=69.38067424901202]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.451171875,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.451171875,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.451171875,
+Attribute Chosen = Age" [label=50.88123272768469]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.46875,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.46875,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.40816326530612246,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.46875,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.46875,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.46875,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.18000000000000005,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.18000000000000005,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.18000000000000005,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.23111111111111116,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.21120000000000005,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.21120000000000005,
+Attribute Chosen = Age" [label=15.600538105648637]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.21120000000000005,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.21120000000000005,
+Attribute Chosen = Age" [label=50.88123272768469]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.04345679012345682,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.18620340698262772,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.345679012345679,
+Attribute Chosen = BMI" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.18620340698262772,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BMI" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.18620340698262772,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.9688691946024955]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = BMI" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.18620340698262772,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.18620340698262772,
+Attribute Chosen = DiabetesPedigreeFunction" [label=2.2772667460544413]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.24489795918367352,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.24489795918367352,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.42000000000000004,
+Attribute Chosen = Insulin" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.24489795918367352,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.24489795918367352,
+Attribute Chosen = BMI" [label=20.16633764443683]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.24489795918367352,
+Attribute Chosen = BMI" [label=7.612128742124554]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4591836734693877,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.332409972299169,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.23111111111111116,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.332409972299169,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.332409972299169,
+Attribute Chosen = BMI" [label=20.16633764443683]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.332409972299169,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.332409972299169,
+Attribute Chosen = BMI" [label=7.612128742124554]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.332409972299169,
+Attribute Chosen = BMI" [label=57.93044938287544]
+	"['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = BMI" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = BloodPressure" [label=14.696927204355223]
+	"['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.40816326530612246,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.40816326530612246,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.40816326530612246,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.40816326530612246,
+Attribute Chosen = BMI" [label=20.16633764443683]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.9688691946024955]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48611111111111116,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48611111111111116,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48611111111111116,
+Attribute Chosen = SkinThickness" [label=76.2204467343943]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.49382716049382713,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48611111111111116,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48611111111111116,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.49777777777777776,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.49777777777777776,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.49777777777777776,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.49777777777777776,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.375,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.375,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.375,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = DiabetesPedigreeFunction" [label=2.2772667460544413]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.9688691946024955]
+	"['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Insulin" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin', 'BMI', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = DiabetesPedigreeFunction" [label=2.2772667460544413]
+	"['BloodPressure', 'Insulin', 'BMI', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.9688691946024955]
+	"['BloodPressure', 'SkinThickness', 'BMI', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.46875,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['BloodPressure', 'SkinThickness', 'BMI', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.46875,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['BloodPressure', 'SkinThickness', 'BMI', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.46875,
+Attribute Chosen = DiabetesPedigreeFunction" [label=2.2772667460544413]
+	"['BloodPressure', 'SkinThickness', 'BMI', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.46875,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.9688691946024955]
+	"['BloodPressure', 'SkinThickness', 'BMI', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.46875,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['BloodPressure', 'SkinThickness', 'BMI', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['BloodPressure', 'SkinThickness', 'BMI', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = DiabetesPedigreeFunction" [label=2.2772667460544413]
+	"['BloodPressure', 'SkinThickness', 'BMI', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['BloodPressure', 'SkinThickness', 'BMI', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.48,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.48,
+Attribute Chosen = Insulin" [label=252.66548269367394]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.48,
+Attribute Chosen = Insulin" [label=578.6437419346715]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.48,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.47530864197530864,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.47530864197530864,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.375,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.47530864197530864,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.47530864197530864,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.47530864197530864,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.332409972299169,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Age" [label=27.36076964632732]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.375,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Age" [label=50.88123272768469]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Age" [label=69.38067424901202]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.49777777777777776,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Age" [label=39.121001187006]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Age" [label=15.600538105648637]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.42000000000000004,
+Attribute Chosen = Insulin" [label=252.66548269367394]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.42000000000000004,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.42000000000000004,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['Pregnancies', 'BloodPressure', 'Insulin', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.47530864197530864,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.46875,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48,
+Attribute Chosen = DiabetesPedigreeFunction" [label=2.2772667460544413]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.9688691946024955]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48,
+Attribute Chosen = DiabetesPedigreeFunction" [label=-0.02511659043582909]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['Pregnancies', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = Insulin" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=40.071757994032836]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=14.696927204355223]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.40816326530612246,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.40816326530612246,
+Attribute Chosen = Insulin" [label=578.6437419346715]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.40816326530612246,
+Attribute Chosen = Insulin" [label=252.66548269367394]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.40816326530612246,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = DiabetesPedigreeFunction" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.19753086419753085,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.23111111111111116,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.5,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.23111111111111116,
+Attribute Chosen = DiabetesPedigreeFunction" [label=2.2772667460544413]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.23111111111111116,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.12444444444444447,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.04345679012345682,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.04345679012345682,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.04345679012345682,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.04345679012345682,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.345679012345679,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.345679012345679,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.345679012345679,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.345679012345679,
+Attribute Chosen = BMI" [label=20.16633764443683]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = BMI" [label=20.16633764443683]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = BMI" [label=43.818818605563166]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = BMI" [label=28.050497964812273]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" [label=76.2204467343943]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.42000000000000004,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.42000000000000004,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.375,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4591836734693877,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4591836734693877,
+Attribute Chosen = DiabetesPedigreeFunction" [label=2.2772667460544413]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4591836734693877,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.40816326530612246,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.23111111111111116,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.23111111111111116,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.23111111111111116,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = BMI" [label=7.612128742124554]
+	"['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = BMI" [label=35.93465828518772]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.5,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['Pregnancies', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Pregnancies', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Pregnancies', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = BloodPressure" [label=14.696927204355223]
+	"['Pregnancies', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['Pregnancies', 'BloodPressure', 'Insulin'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.49382716049382713,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['Pregnancies', 'BloodPressure', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.49382716049382713,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.9688691946024955]
+	"['Pregnancies', 'BloodPressure', 'Insulin'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.49382716049382713,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4897959183673469,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.9688691946024955]
+	"['BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.5,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'BMI'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['BloodPressure', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'BMI', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Insulin" [label=252.66548269367394]
+	"['BloodPressure', 'BMI', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'BMI', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'BMI', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'BMI', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['BloodPressure', 'SkinThickness', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.375,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['BloodPressure', 'SkinThickness', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.375,
+Attribute Chosen = Insulin" [label=252.66548269367394]
+	"['BloodPressure', 'SkinThickness', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.375,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['BloodPressure', 'Insulin', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['BloodPressure', 'Insulin', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.21875,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.332409972299169,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.332409972299169,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.48,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.332409972299169,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.375,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.375,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.375,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.49382716049382713,
+Attribute Chosen = SkinThickness" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.49777777777777776,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.49777777777777776,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Insulin" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.49777777777777776,
+Attribute Chosen = Pregnancies" [label=14.292104104365535]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.49777777777777776,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" [label=-1.2093150107149706]
+	"['BloodPressure', 'SkinThickness', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'SkinThickness', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['Pregnancies', 'SkinThickness', 'Age'],
+,Gini Index = 0.5,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Pregnancies', 'SkinThickness', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['Pregnancies', 'SkinThickness', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Gini Index = 0.40816326530612246,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.47530864197530864,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.47530864197530864,
+Attribute Chosen = Insulin" [label=578.6437419346715]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.47530864197530864,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['Pregnancies', 'BloodPressure', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.46875,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['Pregnancies', 'BloodPressure', 'Insulin'],
+,Gini Index = 0.375,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.46875,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['Pregnancies', 'BloodPressure', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.46875,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Pregnancies', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['Pregnancies', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['Pregnancies', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = Insulin" [label=578.6437419346715]
+	"['SkinThickness', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['SkinThickness', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['BloodPressure', 'Insulin', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.6375405995897206]
+	"['BloodPressure', 'Insulin', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction', 'Age'],
+,Gini Index = 0.5,
+Attribute Chosen = DiabetesPedigreeFunction" [label=0.3062120045769458]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.19753086419753085,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.19753086419753085,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.5,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.5,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['Insulin', 'BMI'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = Insulin" -- "['BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.12444444444444447,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin', 'BMI'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.12444444444444447,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['BloodPressure', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['BloodPressure', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.375,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.375,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.375,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.40816326530612246,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.40816326530612246,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Insulin" -- "['SkinThickness', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.40816326530612246,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'BMI'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.5,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['BloodPressure', 'BMI'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.5,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BloodPressure', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'Insulin'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'Insulin'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['Pregnancies', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Pregnancies', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.48,
+Attribute Chosen = BloodPressure" [label=14.696927204355223]
+	"['Insulin', 'BMI'],
+,Gini Index = 0.5,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Insulin', 'BMI'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'BMI'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin', 'Age'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin', 'Age'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.21875,
+Attribute Chosen = BloodPressure" [label=14.696927204355223]
+	"['SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.21875,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.21875,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.48,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['SkinThickness', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.48,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['BloodPressure', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.5,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.49382716049382713,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['BloodPressure', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.49382716049382713,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['BloodPressure', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.49382716049382713,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['BloodPressure', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.49382716049382713,
+Attribute Chosen = SkinThickness" [label=12.560349549469514]
+	"['BloodPressure', 'SkinThickness'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['BloodPressure', 'SkinThickness'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['BloodPressure', 'SkinThickness'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Gini Index = 0.40816326530612246,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['BloodPressure', 'SkinThickness'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" -- "['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Gini Index = 0.40816326530612246,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['Pregnancies', 'SkinThickness'],
+,Gini Index = 0.4444444444444444,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Pregnancies', 'SkinThickness'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = Pregnancies" -- "['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Pregnancies', 'SkinThickness'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'SkinThickness'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=14.696927204355223]
+	"['Pregnancies', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin'],
+,Gini Index = 0.375,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Pregnancies', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'BloodPressure', 'Insulin'],
+,Gini Index = 0.375,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Pregnancies', 'Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'BloodPressure', 'Insulin'],
+,Gini Index = 0.375,
+Attribute Chosen = BloodPressure" [label=14.696927204355223]
+	"['SkinThickness', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+	"['SkinThickness', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Pregnancies', 'SkinThickness', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = Pregnancies" [label=8.899419177381638]
+	"['BMI'],
+,Gini Index = 0.5,
+ predicted value = 0" -- "['Insulin', 'BMI'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['BMI'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Insulin', 'BMI'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['Insulin'],
+,Gini Index = 0.375,
+ predicted value = 0" -- "['BloodPressure', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin'],
+,Gini Index = 0.5,
+ predicted value = 0" -- "['BloodPressure', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+ predicted value = 0" -- "['BloodPressure', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Insulin'],
+,Gini Index = 0.375,
+ predicted value = 0" -- "['BloodPressure', 'Insulin'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['Insulin'],
+,Gini Index = 0.5,
+ predicted value = 0" -- "['BloodPressure', 'Insulin'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin'],
+,Gini Index = 0.2777777777777778,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Insulin" [label=22.177477990997588]
+	"['DiabetesPedigreeFunction'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['Insulin', 'DiabetesPedigreeFunction'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = Insulin" [label=137.42148034233577]
+	"['Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['SkinThickness', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" [label=44.46478468492479]
+	"['Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['SkinThickness', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" [label=28.51256711719715]
+	"['Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['SkinThickness', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = SkinThickness" [label=-3.3918680182581227]
+	"['Insulin'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=98.13917950596718]
+	"['Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['Insulin'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'Insulin'],
+,Gini Index = 0.4444444444444444,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness'],
+,Gini Index = 0.4444444444444444,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['SkinThickness'],
+,Gini Index = 0.0,
+ predicted value = 1" -- "['BloodPressure', 'SkinThickness'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" [label=59.42756516467761]
+	"['SkinThickness'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['BloodPressure', 'SkinThickness'],
+,Gini Index = 0.5,
+Attribute Chosen = BloodPressure" [label=78.78337233532238]
+	"['SkinThickness'],
+,Gini Index = 0.0,
+ predicted value = 0" -- "['Pregnancies', 'SkinThickness'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = Pregnancies" [label=2.1602630519838986]
+	"['SkinThickness'],
+,Gini Index = 0.4444444444444444,
+ predicted value = 0" -- "['Pregnancies', 'SkinThickness'],
+,Gini Index = 0.31999999999999995,
+Attribute Chosen = Pregnancies" [label=5.529841114682768]
+}
